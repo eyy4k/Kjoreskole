@@ -21,7 +21,7 @@ Icons and text centered with proper spacing
 Responsive layout for different screen sizes
 
 ## 🌐 Live Demo
-Check out the live demo: [[Website-Template Live](https://github.com/eyy4k/Website-Template/deployments/github-pages)](https://eyy4k.github.io/Drivers-License-School-Simple-Landing-Page/)
+Check out the live demo: [[[Website-Template Live](https://github.com/eyy4k/Website-Template/deployments/github-pages)](https://eyy4k.github.io/Drivers-License-School-Simple-Landing-Page/)](https://eyy4k.github.io/Drivers-License-School-Simple-Landing-Page/)
 
 
 !!! MAC OR PC ONLY THE WEBSITE IS ONLY MADE FOR THESE DEVICES NOT PHONES IT MAY BE VERY WEIRD IF YOU VIEW ON PHONE OR TABLET !!!
